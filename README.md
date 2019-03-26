@@ -56,4 +56,4 @@ pkg upgrade
 
 # Special Thank's To ALLAH S.W.T
 # Thank's To Boyfira From Selfbot MAX
-# Thank's To ANONIMUS From 
+# Thank's To ANONYMOUS From winbotscript
